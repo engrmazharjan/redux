@@ -36,3 +36,40 @@
     transform: rotate(360deg);
   }
 }
+
+.img-wrapper img {
+  width: 100px;
+  margin-top: -20px;
+}
+
+.btn-wrapper button {
+  background-color: #61dafb;
+  border: 0px;
+  padding: 10px;
+  border-radius: 4px;
+  color: #ffffff;
+  font-size: 1rem;
+  margin-top: 1rem;
+  box-shadow: #333333 0px 1px 3px;
+}
+
+.cart-wrapper {
+  height: 100px;
+  width: 500px;
+  border: 1px solid #cccccc;
+  margin-left: 10%;
+}
+
+.item {
+  float: left;
+  width: 120px;
+  padding: 20px;
+  height: 70px;
+}
+
+.add-to-cart img {
+  width: 80px;
+  position: absolute;
+  top: 1%;
+  right: 1%;
+}
